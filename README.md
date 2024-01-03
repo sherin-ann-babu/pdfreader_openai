@@ -12,7 +12,7 @@ FAISS (Facebook AI Similarity Search) - A library for efficient similarity searc
 
 You can install all dependencies by running the following command:
 
-  pip install langchain openai textract transformers langchain faiss-cpu pypdf tiktoken
+   pip install langchain openai textract transformers langchain faiss-cpu pypdf tiktoken
 
 # How It Works
 
