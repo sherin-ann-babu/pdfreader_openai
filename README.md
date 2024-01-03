@@ -4,15 +4,18 @@ Pdfreader_openai is an efficient tool for indexing and searching PDF text data u
 # Libraries Used
 
 Textract - A Python library for extracting text from any document.
+
 Transformers - A library by Hugging Face providing state-of-the-art general-purpose architectures for Natural Language Understanding (NLU) and Natural Language Generation (NLG).
+
 Langchain - A text processing and embeddings library.
+
 FAISS (Facebook AI Similarity Search) - A library for efficient similarity search and clustering of dense vectors.
 
 # Installing Dependencies
 
 You can install all dependencies by running the following command:
 
-   pip install langchain openai textract transformers langchain faiss-cpu pypdf tiktoken
+    pip install langchain openai textract transformers langchain faiss-cpu pypdf tiktoken
 
 # How It Works
 
